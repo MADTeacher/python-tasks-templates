@@ -8,4 +8,4 @@ if __name__ == "__main__":
     my_val1 = int(input("Введите первое значение "))
     my_val2 = int(input("Введите второе значение "))
 
-    print(lmc(my_val1, my_val2))
+    print(gcd(my_val1, my_val2))
